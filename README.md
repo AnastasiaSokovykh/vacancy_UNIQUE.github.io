@@ -1,2 +1,0 @@
-# myresume.io
-myresume.
